@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #280095;
+    background-color: #0005C8;
 	color: white
 }
 
@@ -52,10 +52,10 @@ body {
 }
 
 .my-custom-class {
-  background-color: #1003FF;
+  background-color: #0005C8;
   color: #FF0000;
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 50px;
   text-align: center;
 	margin-bottom: 10px;
 }
